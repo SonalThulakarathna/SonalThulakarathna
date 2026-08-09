@@ -3,7 +3,7 @@
 <!-- PROFILE HEADER IMAGE -->
 
 
-# 👋 Hi there, I'm **Sonal Thilakarathna**
+#  Hi there, I'm **Sonal Thilakarathna**
 ###  Building the Future of Founder Personal Branding at **[Denvar AI](https://denvarai.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonal-thilakarathna)
@@ -11,14 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonalthilakarathna@denvarai.com)
 
 </div>
-
----
-
-## 💫 About Me
-
-* 🔭 **Currently Building:** [Denvar AI](https://denvarai.com) — an AI-powered platform empowering founders to operate and scale their personal brand on LinkedIn.
-* 📫 **How to reach me:** `sonalthilakarathna@denvarai.com`
-
 ---
 
 ## 💻 Tech Stack
