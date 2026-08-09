@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- PROFILE HEADER IMAGE -->
-<img src="image_0.png" alt="Sonal Thilakarathna - Founder & Engineer Header Banner" width="100%" />
+
 
 # 👋 Hi there, I'm **Sonal Thilakarathna**
 ### 🚀 Building the Future of Founder Personal Branding at **[Denvar AI](https://denvarai.com)**
