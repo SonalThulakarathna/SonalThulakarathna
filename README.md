@@ -4,7 +4,7 @@
 
 
 # 👋 Hi there, I'm **Sonal Thilakarathna**
-### 🚀 Building the Future of Founder Personal Branding at **[Denvar AI](https://denvarai.com)**
+###  Building the Future of Founder Personal Branding at **[Denvar AI](https://denvarai.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonal-thilakarathna)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sonalonx)
@@ -17,8 +17,6 @@
 ## 💫 About Me
 
 * 🔭 **Currently Building:** [Denvar AI](https://denvarai.com) — an AI-powered platform empowering founders to operate and scale their personal brand on LinkedIn.
-* 🛠️ **Core Focus:** Full-Stack Architecture, AI/ML Integration, and High-Performance Web & Mobile Apps.
-* 💬 **Ask me about:** React, Next.js, Python, AI Agent workflows, and Product Design.
 * 📫 **How to reach me:** `sonalthilakarathna@denvarai.com`
 
 ---
