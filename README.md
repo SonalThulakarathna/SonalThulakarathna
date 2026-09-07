@@ -87,11 +87,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-| **GitHub Statistics** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Sonalthulakarathna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonalthulakarathna&layout=compact&theme=tokyonight&hide_border=true" width="350" /> |
 
 <br/>
 
